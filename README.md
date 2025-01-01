@@ -69,7 +69,7 @@ Flexboxes and viewport sizes could be helpful to align items properly. Here we p
 
 ### Continued development
 
-I still need more page-proofing practices before diving deeper into frontend development.
+Despite my long-term programming experience, I still need more page-proofing practices before diving deeper into frontend development.
 
 ### Useful resources
 
