@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ardolynk-reborn/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://ardolynk-reborn.github.io/qr-code-component-main)
 
 ## My process
 
@@ -74,7 +74,7 @@ I still need more page-proofing practices before diving deeper into frontend dev
 ### Useful resources
 
 - [Frontend Web Development Bootcamp Course](https://www.youtube.com/watch?v=zJSY8tbf_ys) - This course contains much useful info about the very basics of frontend development (still far from ideal though).
-- [ChatGPT](https://chatgpt.com/) - This helped me center the card using CSS.
+- [ChatGPT](https://chatgpt.com) - This helped me center the card using CSS.
 
 ## Author
 
